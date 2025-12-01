@@ -6,15 +6,7 @@ assets/
 │── music/
 │── videos/
 
-Why this structure?
 
-Easier to manage static files
-
-Cleaner project hierarchy
-
-Prevents scattered resource folders
-
-Ensures consistent referencing paths in the code
 
 Make sure all references in HTML/CSS/JS follow this format:
 
